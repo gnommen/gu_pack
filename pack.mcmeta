@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "pack_format": 53,
+        "supported_formats": {
+            "min_inclusive": 53,
+            "max_inclusive": 9999
+        },
+        "min_format": 53,
+        "max_format": 9999,
+        "description": [
+            {
+                "text": "Custom textures for",
+                "color": "#D1C1B4"
+            },
+            {
+                "text": "\nscholarly gamers :3",
+                "color": "#C73E66"
+            }
+        ]
+    }
+}
